@@ -14,7 +14,7 @@ The use cases / requirements for the program included:
 
 ## Time Spent
 
-The amount of time spent writing this program, testing, and documenting it in this README was xx hours, yy minutes.
+The amount of time spent writing this program, testing, and documenting it in this README was 1 hours, 45 minutes.
 
 ## Installation
 
@@ -30,7 +30,7 @@ Change directories to the cloned repo.
 
 Run the program from the command line, passing the name of the ruby program, the name of the input file, the name of the changes file, and the name of the output file.
 
-``` ruby spotify_changes.rb spotify.json changes.json output-file.json ```
+``` ruby apply_changes.rb spotify.json changes.json output-file.json ```
 
 After the program runs, inspect your output file to verify that the changes listed in your changes file were made correctly.
 
